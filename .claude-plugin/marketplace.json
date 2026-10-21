@@ -3937,6 +3937,32 @@
         "repo": "whereisdw/lidnight-claude-plugin",
         "sha": "f54adf0da9c4fe31ff24631a3d7d0e3e8890dda2"
       }
+    },
+    {
+      "name": "agentkit-dev-skills",
+      "description": "12 MIT-licensed SKILL.md skills for everyday developer work: review-my-diff, repro-first-debugging, pr-description, safe-refactor, dependency-upgrade, explain-codebase, security-quick-review, prove-it-ran (make the agent show real test output before saying done), session-handoff, brag-doc-from-git, write-agents-md and agents-md-audit (with a small read-only Python audit script). Skills only: no hooks, no MCP servers, no settings, no network calls.",
+      "version": "1.1.0",
+      "author": {
+        "name": "AgentKit Co",
+        "url": "https://github.com/agentkitco"
+      },
+      "homepage": "https://agentkitco.com/skills/",
+      "repository": "https://github.com/agentkitco/agentkit-dev-skills",
+      "license": "MIT",
+      "keywords": [
+        "skills",
+        "code-review",
+        "debugging",
+        "agents-md",
+        "pull-requests",
+        "refactoring"
+      ],
+      "category": "skills",
+      "source": {
+        "source": "github",
+        "repo": "agentkitco/agentkit-dev-skills",
+        "sha": "a5058856442fcb89bd538b1c01f94558488bfac3"
+      }
     }
   ]
 }
