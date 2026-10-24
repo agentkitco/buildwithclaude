@@ -4200,6 +4200,60 @@
       }
     },
     {
+      "name": "post",
+      "description": "Share-image sets for Xiaohongshu and X that look native: App Store poster layout, real screenshots, faithful app-UI mocks, charts instead of tables, covers and a series layer for building in public, rendered from HTML templates to PNG.",
+      "version": "1.1.0",
+      "author": {
+        "name": "jack-reson8",
+        "url": "https://github.com/jack-reson8"
+      },
+      "homepage": "https://github.com/jack-reson8/post-skill",
+      "repository": "https://github.com/jack-reson8/post-skill",
+      "license": "MIT",
+      "keywords": [
+        "xiaohongshu",
+        "twitter",
+        "carousel",
+        "social-media",
+        "marketing",
+        "build-in-public"
+      ],
+      "category": "sales-marketing",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jack-reson8/post-skill.git",
+        "path": "plugins/post",
+        "sha": "3992c3b36115c5f336fcc8999f077a6343d43a91"
+      }
+    },
+    {
+      "name": "pro-motion",
+      "description": "Audio-first motion-graphics launch, brand and TVC films rendered in code (canvas to MP4) and cut to the music: music plan and generator prompts, beat analysis from the spectrogram, reference contact sheets, three style frames before building, a protagonist-driven shot map, a deterministic motion library, parallel rendering and per-language cuts.",
+      "version": "1.2.1",
+      "author": {
+        "name": "jack-reson8",
+        "url": "https://github.com/jack-reson8"
+      },
+      "homepage": "https://github.com/jack-reson8/pro-motion",
+      "repository": "https://github.com/jack-reson8/pro-motion",
+      "license": "MIT",
+      "keywords": [
+        "motion-graphics",
+        "video",
+        "launch-video",
+        "animation",
+        "music-sync",
+        "ffmpeg"
+      ],
+      "category": "creative",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jack-reson8/pro-motion.git",
+        "path": "plugins/pro-motion",
+        "sha": "9d74577192a852a26fb37d5dff64000a8c7a8f7a"
+      }
+    },
+    {
       "name": "agentkit-dev-skills",
       "description": "13 MIT-licensed SKILL.md skills for everyday developer work: review-my-diff, repro-first-debugging, pr-description, safe-refactor, dependency-upgrade (shows the target version and files and waits for a yes before changing anything), explain-codebase, security-quick-review, prove-it-ran (make the agent show real test output before saying done), session-handoff, brag-doc-from-git, write-agents-md, agents-md-audit (with a small read-only Python audit script) and write-subagent. Skills only: no hooks, no MCP servers, no settings, no network calls.",
       "version": "1.2.2",
