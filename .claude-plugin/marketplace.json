@@ -4147,6 +4147,33 @@
         "repo": "yw0nam/any-subagent",
         "sha": "181ba387586651492a3cdca16c5da8a469b9b12d"
       }
+    },
+    {
+      "name": "agentkit-dev-skills",
+      "description": "13 MIT-licensed SKILL.md skills for everyday developer work: review-my-diff, repro-first-debugging, pr-description, safe-refactor, dependency-upgrade, explain-codebase, security-quick-review, prove-it-ran (make the agent show real test output before saying done), session-handoff, brag-doc-from-git, write-agents-md, agents-md-audit (with a small read-only Python audit script) and write-subagent. Skills only: no hooks, no MCP servers, no settings, no network calls.",
+      "version": "1.2.1",
+      "author": {
+        "name": "AgentKit Co",
+        "url": "https://github.com/agentkitco"
+      },
+      "homepage": "https://agentkitco.com/skills/",
+      "repository": "https://github.com/agentkitco/agentkit-dev-skills",
+      "license": "MIT",
+      "keywords": [
+        "skills",
+        "code-review",
+        "debugging",
+        "agents-md",
+        "subagents",
+        "pull-requests",
+        "refactoring"
+      ],
+      "category": "skills",
+      "source": {
+        "source": "github",
+        "repo": "agentkitco/agentkit-dev-skills",
+        "sha": "6fa7fc2fce39d444cb3d5fe9abbe0c915aca7fc0"
+      }
     }
   ]
 }
